@@ -1,0 +1,18 @@
+
+a=int(input("enter a value"))
+if a%2==0:
+    print("Given number is even")
+else:
+    print("Given number is odd")
+Output:
+enter a value 20                            
+ Given number is even
+
+a=20
+b=50
+if(a>b):
+    print("a is big")
+else:
+    print("b is big")
+Output:
+b is big
